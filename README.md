@@ -1,6 +1,6 @@
 # M2 Money Supply Growth and CPI Inflation: A Monetarist Lag Analysis (US, 2016–2026)
 
-**Author:** Sid
+**Author:** Siddarth Menon
 **Date:** July 2026
 **Subject:** IB Economics HL
 
